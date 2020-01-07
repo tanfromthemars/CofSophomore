@@ -1,7 +1,0 @@
-﻿  Program.cpp
-C:\Users\PC1\source\repos\1812841_HuynhThienTan_Lab02_Bai1\1812841_HuynhThienTan_Lab02_Bai1\Program.cpp(12,1): warning C4326:  return type of 'main' should be 'int' instead of 'void'
-C:\Users\PC1\source\repos\1812841_HuynhThienTan_Lab02_Bai1\1812841_HuynhThienTan_Lab02_Bai1\Program.cpp(14,10): error C2562:  'main': 'void' function returning a value
-C:\Users\PC1\source\repos\1812841_HuynhThienTan_Lab02_Bai1\1812841_HuynhThienTan_Lab02_Bai1\Program.cpp(11): message :  see declaration of 'main'
-C:\Users\PC1\source\repos\1812841_HuynhThienTan_Lab02_Bai1\1812841_HuynhThienTan_Lab02_Bai1\Program.cpp(26,24): error C2664:  'void Docmang(char *,int [],int &)': cannot convert argument 1 from 'char' to 'char *'
-C:\Users\PC1\source\repos\1812841_HuynhThienTan_Lab02_Bai1\1812841_HuynhThienTan_Lab02_Bai1\Program.cpp(26,10): message :  Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or function-style cast
-C:\Users\PC1\source\repos\1812841_HuynhThienTan_Lab02_Bai1\1812841_HuynhThienTan_Lab02_Bai1\Program.cpp(32,10): error C3861:  'chonMenu': identifier not found
