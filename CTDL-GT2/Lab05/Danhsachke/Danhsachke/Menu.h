@@ -139,7 +139,7 @@ void Xulymenu(int menu, GraphADT& g)
 
 	case 7:
 		cout << "\n7. Luu thong tin do thi xuong file\n";
-		WriteGraph(g, "Output.txt");
+		SaveGraph(g, "Output.txt");
 		break;
 
 	case 8:

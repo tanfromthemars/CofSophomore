@@ -1,4 +1,4 @@
-﻿//Tạo một đỉnh có nhãn l thành 1 phần tử trong danh sách đỉnh
+﻿//Tạo một đỉnh có nhãn lab
 VertexPtr CreateVertex(LabelType l)
 {
 	VertexPtr v = new Vertex;		//Vertex* v = new Vertex
@@ -20,13 +20,11 @@ EdgePtr CreateEdge(char l, CostType w)
 }
 
 //Tìm vị trí đỉnh v trong đồ thị g
-int FindIndexVertex(GraphADT g, char v)
+int FindIndexVertex(GraphADT g, LabelType l)
 {
 	for (size_t i = 0; i < g.numVertices; i++) //Số đỉnh của đồ thị g
-	{
-		if (g.Vertices[i]->Label == v)//Nếu đỉnh thứ i có nhãn = v
+		if (g.Vertices[i]->Label == l)//Nếu đỉnh thứ i có nhãn = v
 			return i;
-	}
 	return -1;
 }
 
@@ -74,7 +72,7 @@ GraphADT InitGraph(bool directed)
 //Thiết lập trạng thái của các đỉnh
 void ResetFlags(GraphADT& g)
 {
-	for (int i = 0; i < g.numVertices; i++)
+	for (size_t i = 0; i < g.numVertices; i++)
 		g.Vertices[i]->visited = NO; //Thiết lập trường visited của đỉnh i = NO
 }
 
@@ -144,57 +142,28 @@ void AddEdge(GraphADT& g, char v, char lab, CostType w)
 }
 
 //Lưu đồ thị xuống file
-void WriteGraph(GraphADT g, const char* filename)
+void SaveGraph(GraphADT g, const char* filename)
 {
-	ofstream out(filename); //Khai báo biến và mở tập tin để ghi
-	out << g.numVertices << '\n'; //Lưu số đỉnh
-	out << g.numEdges << '\n'; //Lưu số cạnh
-	out << g.directed << '\n'; //Lưu loại đồ thị
-	//Lưu tên các đỉnh
-	for (size_t i = 0; i < g.numVertices; i++)
-		out << g.Vertices[i]->Label << '\n';
-	//Lưu ma trận kề
-	for (size_t i = 0; i < g.numVertices; i++)
+	ofstream out(filename);
+	out << g.numVertices << '\n';
+	out << g.numEdges << '\n';
+	out << g.directed << '\n';
+	for (size_t i = 0; i < g.numVertices; i++) //Ghi tên các đỉnh
+		out << g.Vertices[i]->Label << '\t';
+	out << endl;
+	for (size_t i = 0; i < g.numVertices; i++) //Ghi ma trận kề
 	{
 		for (size_t j = 0; j < g.numVertices; j++)
 		{
-			if (i == j)
-				out << "0" << "\t";
-			else
-				if (IsConnected(g, g.Vertices[i]->Label, g.Vertices[j]->Label))
-				{
-					EdgePtr temp = FindEdge(g, g.Vertices[i]->Label, g.Vertices[j]->Label);
-					out << g.Vertices[j]->Edgelist->weight << '\t';
-				}
+			EdgePtr e = FindEdge(g, g.Vertices[i]->Label, g.Vertices[j]->Label);
+			if (e == NULL)
+				if (i == j)
+					out << 0 << '\t';
 				else
-				{
-					out << "1000" << '\t';
-				}
+					out << 1000 << '\t';
+			else out << e->weight << '\t';
 		}
-		if (i != g.numVertices - 1)
-			out << "\n";
-
-	//ofstream out(filename);
-	//out << g.numVertices << '\n';
-	//out << g.numEdges << '\n';
-	//out << g.directed << '\n';
-	//for (size_t i = 0; i < g.numVertices; i++) //Ghi tên các đỉnh
-	//	out << g.Vertices[i]->Label << '\t';
-	//out << endl;
-	//for (size_t i = 0; i < g.numVertices; i++) //Ghi ma trận kề
-	//{
-	//	for (size_t j = 0; j < g.numVertices; j++)
-	//	{
-	//		EdgePtr e = FindEdge(g, g.Vertices[i]->Label, g.Vertices[j]->Label);
-	//		if (e == NULL)
-	//			if (i == j)
-	//				out << 0 << '\t';
-	//			else
-	//				out << 1000 << '\t';
-	//		else out << e->weight << '\t';
-	//	}
-	//	out << endl;
-	//}
+		out << endl;
 	}
 	out.close(); //Đóng tập tin
 }
@@ -205,168 +174,83 @@ int OpenGraph(GraphADT& g, char* filename)
 	ifstream in(filename);
 	if (in.is_open())
 	{
-		int n = 0, m = 0, w = 0;
+		int n = 0, m = 0, w = 0, t;
 		bool d = false;
-		char lab;
-		in >> n; //Đọc số đỉnh
-		in >> m; //Đọc số cạnh
-		in >> d; //Đọc loại đồ thị
+		LabelType l;
+		in >> n; //Số đỉnh 
+		in >> m; //Số cạnh
+		in >> d; //Loại đồ thị
 		g = InitGraph(d);
-		for (int i = 0; i < n; i++)
+		for (size_t i = 0; i < n; i++) //Khởi tạo nhãn của các đỉnh
 		{
-			in >> lab;
-			VertexPtr v = CreateVertex(lab);
+			in >> l;
+			VertexPtr v = CreateVertex(l);
 			AddVertex(g, v);
 		}
-		lab = ' ';
-		int indexvertex;
-		for (int i = 0; i < m; i++)
+		for (size_t i = 0; i < n; i++)
 		{
-			char dinh, dich;
-			int trongso;
-			in >> dinh;
-			in >> dich;
-			in >> trongso;
-			if (lab != dinh)
+			for (size_t j = 0; j < n; j++)
 			{
-				lab = dinh;
-				indexvertex = FindIndexVertex(g, dinh);
+				in >> t;
+				if (t != 1000 && t != 0)
+				{
+					EdgePtr e = CreateEdge(g.Vertices[j]->Label, t);
+					AddEdge(g.Vertices[i]->Edgelist, e);
+					g.numEdges++;
+				}
 			}
-			if (trongso == NULL)
-			{
-				trongso = 1;
-			}
-			EdgePtr e = CreateEdge(dich, trongso);
-			AddEdge(g.Vertices[indexvertex]->Edgelist, e);
-			g.numEdges++;
 		}
 		in.close();
 		return 1;
 	}
 	else
-	{
-		cout << "\nLoi doc file nhap lai ten file\n";
-		system("pause");
 		return 0;
-	}
-
-	//ifstream in(filename);
-	//if (in.is_open())
-	//{
-	//	int n = 0, m = 0, w = 0, t;
-	//	bool d = false;
-	//	LabelType l;
-	//	in >> n; //Số đỉnh 
-	//	in >> m; //Số cạnh
-	//	in >> d; //Loại đồ thị
-	//	g = InitGraph(d);
-	//	for (size_t i = 0; i < n; i++) //Khởi tạo nhãn của các đỉnh
-	//	{
-	//		in >> l;
-	//		VertexPtr v = CreateVertex(l);
-	//		AddVertex(g, v);
-	//	}
-	//	for (size_t i = 0; i < n; i++)
-	//	{
-	//		for (size_t j = 0; j < n; j++)
-	//		{
-	//			in >> t;
-	//			if (t != 1000 && t != 0)
-	//			{
-	//				EdgePtr e = CreateEdge(g.Vertices[j]->Label, t);
-	//				AddEdge(g.Vertices[i]->Edgelist, e);
-	//				g.numEdges++;
-	//			}
-	//		}
-	//	}
-	//	in.close();
-	//	return 1;
-	//}
-	//else
-	//	return 0;
 }
 
 //Tìm đỉnh đầu tiên kề với cur mà chưa xét
 char FindFirstAdjacentVertex(GraphADT g, char cur)
 {
 	//Duyệt qua mọi đỉnh
-	for (int i = 0; i < g.numVertices; i++)
+	int v = FindIndexVertex(g, cur);
+	if (v != -1)
 	{
-		if (g.Vertices[i]->Label == cur)
+		EdgePtr e = g.Vertices[v]->Edgelist;
+		while (e != NULL)
 		{
-			EdgePtr p = g.Vertices[i]->Edgelist;
-			while (p != NULL)
-			{
-				for (int j = 0; j < g.numVertices; j++)
-					if (g.Vertices[j]->Label == p->target && g.Vertices[j]->visited == NO)
-						return p->target; //Thỏa điều kiện -> tìm thấy
-				p = p->Next;
-			}
+			for (size_t j = 0; j < g.numVertices; j++)
+				if (g.Vertices[j]->Label == e->target && g.Vertices[j]->visited == NO)
+					return e->target;
+			e = e->Next;
 		}
 	}
-	return NULLDATA; //Không tìm thấy
-
-	//int v = FindIndexVertex(g, cur);
-	//if (v != -1)
-	//{
-	//	EdgePtr e = g.Vertices[v]->Edgelist;
-	//	while (e != NULL)
-	//	{
-	//		for (size_t j = 0; j < g.numVertices; j++)
-	//			if (g.Vertices[j]->Label == e->target && g.Vertices[j]->visited == NO)
-	//				return e->target;
-	//		e = e->Next;
-	//	}
-	//}
-	//return NULLDATA;
+	return NULLDATA;
 }
 
 //Duyệt đồ thị theo chiều sâu (Depth First Search)
 //Mô tả: Đi tiếp đến khi nào không đi đến được nữa thì lùi lại và tìm đường đi mới, và một đỉnh không đi qua 2 lần
 void DFS_Loop(GraphADT& g, char start)
 {
-	int index = FindIndexVertex(g, start);
-	g.Vertices[index]->visited = YES;
+	ResetFlags(g);
+	int vt = FindIndexVertex(g, start);
+	g.Vertices[vt]->visited = YES;
 	cout << start << '\t';
-	stack<char>st;
-	st.push(start);
+	stack<char>s;
+	s.push(start);
 	char cur, adj;
-	while (!st.empty())
+	while (!s.empty())
 	{
-		cur = st.top();
+		cur = s.top();
 		adj = FindFirstAdjacentVertex(g, cur);
 		if (adj == NULLDATA)
-			st.pop();
+			s.pop();
 		else
 		{
-			int index = FindIndexVertex(g, adj);
-			g.Vertices[index]->visited = YES;
+			vt = FindIndexVertex(g, adj);
+			g.Vertices[vt]->visited = YES;
 			cout << adj << '\t';
-			st.push(adj);
+			s.push(adj);
 		}
 	}
-	
-	//ResetFlags(g);
-	//int vt = FindIndexVertex(g, start);
-	//g.Vertices[vt]->visited = YES;
-	//cout << start << '\t';
-	//stack<char>s;
-	//s.push(start);
-	//char cur, adj;
-	//while (!s.empty())
-	//{
-	//	cur = s.top();
-	//	adj = FindFirstAdjacentVertex(g, cur);
-	//	if (adj == NULLDATA)
-	//		s.pop();
-	//	else
-	//	{
-	//		vt = FindIndexVertex(g, adj);
-	//		g.Vertices[vt]->visited = YES;
-	//		cout << adj << '\t';
-	//		s.push(adj);
-	//	}
-	//}
 }
 
 //Duyệt đồ thị theo chiều rộng
@@ -374,13 +258,14 @@ void DFS_Loop(GraphADT& g, char start)
 
 void BFS(GraphADT g, char start)
 {
-	int index = FindIndexVertex(g, start);
-	g.Vertices[index]->visited = YES;
-	queue<char>q;
+	ResetFlags(g);
+	int vt = FindIndexVertex(g, start);
+	g.Vertices[vt]->visited = YES;
+	cout << start << '\t';
+	queue<int>q;
 	q.push(start);
 	char cur, adj;
 	cur = q.front();
-	cout << cur << '\t';
 	while (!q.empty())
 	{
 		adj = FindFirstAdjacentVertex(g, cur);
@@ -389,45 +274,16 @@ void BFS(GraphADT g, char start)
 			q.pop();
 			if (q.size() != 0)
 				cur = q.front();
-			else
-				break;
+			else break;
 		}
 		else
 		{
-			index = FindIndexVertex(g, adj);
-			g.Vertices[index]->visited = YES;
+			vt = FindIndexVertex(g, adj);
+			g.Vertices[vt]->visited = YES;
 			cout << adj << '\t';
 			q.push(adj);
 		}
 	}
-	ResetFlags(g);
-
-	//ResetFlags(g);
-	//int vt = FindIndexVertex(g, start);
-	//g.Vertices[vt]->visited = YES;
-	//cout << start << '\t';
-	//queue<int>q;
-	//q.push(start);
-	//char cur, adj;
-	//cur = q.front();
-	//while (!q.empty())
-	//{
-	//	adj = FindFirstAdjacentVertex(g, cur);
-	//	if (adj == NULLDATA)
-	//	{
-	//		q.pop();
-	//		if (q.size() != 0)
-	//			cur = q.front();
-	//		else break;
-	//	}
-	//	else
-	//	{
-	//		vt = FindIndexVertex(g, adj);
-	//		g.Vertices[vt]->visited = YES;
-	//		cout << adj << '\t';
-	//		q.push(adj);
-	//	}
-	//}
 }
 
 //Hiển thị ma trận kề
