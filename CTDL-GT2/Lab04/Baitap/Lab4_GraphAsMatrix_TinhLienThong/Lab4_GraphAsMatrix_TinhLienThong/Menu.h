@@ -12,6 +12,7 @@
 	cout << "\n8. Duyet do thi theo chieu sau";
 	cout << "\n9. Kiem tra xem do thi G co lien thong hay khong?";
 	cout << "\n10. Xuat ma tran ke";
+	cout << "\n============================================================================";
 }
 
 int Chonmenu(int somenu)
@@ -37,7 +38,7 @@ void Xulymenu(int menu, Graph& g)
 	int p1, p2;
 	char u, v;
 	int w;
-	char filename[10];
+	char filename[10] = "Text_.txt";
 
 	//Xử lý chức năng
 	system("cls");
@@ -54,6 +55,13 @@ void Xulymenu(int menu, Graph& g)
 			cout << "\nNhap thu tu cua file can mo (1 -> 6 tuong ung a -> f): ";
 			cin >> stt;
 		} while (stt < 1 || stt > 6);
+		filename[4] = 'A' + stt - 1;
+		if (OpenGraph(g, filename))
+		{
+			cout << "\nMa tran ke: ";
+			DisplayMatrix(g);
+		}
+		else cout << "\nLoi mo file!";
 		break;
 
 	case 2:

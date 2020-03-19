@@ -138,13 +138,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <Text Include="a.txt" />
-    <Text Include="b.txt" />
-    <Text Include="c.txt" />
-    <Text Include="d.txt" />
-    <Text Include="e.txt" />
-    <Text Include="f.txt" />
     <Text Include="output.txt" />
+    <Text Include="TextA.txt" />
+    <Text Include="TextB.txt" />
+    <Text Include="TextC.txt" />
+    <Text Include="TextD.txt" />
+    <Text Include="TextE.txt" />
+    <Text Include="TextF.txt" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Program.cpp" />

@@ -175,7 +175,7 @@ void SaveGraph(Graph g, char* filename)
 	os.close();
 }
 
-void OpenGraph(Graph& g, char* filename)
+int OpenGraph(Graph& g, char* filename)
 {
 	//Khai báo biến và mở file để đọc
 	ifstream is(filename);
@@ -208,16 +208,17 @@ void OpenGraph(Graph& g, char* filename)
 		}
 		//Đọc ma trận kề từ file
 		for (size_t i = 0; i < n; i++)
-		{
 			for (size_t j = 0; j < n; j++)
 			{
 				is >> t;
 				if (t != 0)
 					g.Cost[i][j] = t;
 			}
-		}
 		is.close();
+		return 1;
 	}
+	else
+		return 0;
 }
 
 int FindFirstAdjacentVertex(Graph g, int curr)

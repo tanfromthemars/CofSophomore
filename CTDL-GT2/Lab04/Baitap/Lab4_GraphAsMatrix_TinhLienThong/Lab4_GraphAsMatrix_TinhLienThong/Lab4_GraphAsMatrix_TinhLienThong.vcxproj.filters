@@ -15,15 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="a.txt" />
-    <Text Include="b.txt" />
-    <Text Include="c.txt" />
-    <Text Include="d.txt" />
-    <Text Include="e.txt" />
-    <Text Include="f.txt" />
-    <Text Include="output.txt" />
-  </ItemGroup>
-  <ItemGroup>
     <ClCompile Include="Program.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -38,5 +29,28 @@
     <ClInclude Include="Graph.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="output.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="TextA.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="TextB.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="TextC.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="TextD.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="TextE.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="TextF.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
   </ItemGroup>
 </Project>
