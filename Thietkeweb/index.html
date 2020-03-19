@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Tieu de trang web</title>
+	</head>
+
+	<body>
+		<h1>TITLE 1</h1>
+		<h2>TITLE 2</h2>
+		<h3>TITLE 3</h3>
+		<h4>TITLE 4</h4>
+		<h5>TITLE 5</h5>
+		<h6>TITLE 6</h6>
+
+		<p>In the name of love</p>
+		<p><strong>strong</strong>: in dam
+		<p><b>b</b>: in dam
+		<p><i>i</i>: in nghieng</p>
+		<p><em>em</em>: in nghieng</p>
+		<p><strike>strike</strike>: gach chu</p>
+		<p><sup>sup</sup>: nang chu len</p>
+		<p><sub>sub</sub>: ha chu xuong</p>
+
+		<p>Hien thi ki tu dac biet</p>
+		&copy;
+		<p>https://unicode-table.com/en/</p>
+		
+		<p><blockquote>"blockquote: trich dan loi noi tu ai do."<cite>cite: ten ai do</cite></blockquote></p>
+
+		<p><address>address: No.1, Hung Vuong Str, Ba Dinh Dist, Ha Noi City, Vietnam</address></p>
+
+		<a href="#">Tao link lien ket: chen "href = "link lien ket"" sau a</a>
+		<p>cac target sau "link lien ket"</p>
+		<p>target="_blank": sang tab moi</p>
+		<p>target="_self": mo tren tab hien tai</p>
+		<p>target="_parent":</p>
+		<p>target="_top":</p>
+
+		<p>Chen hinh anh: img</p>
+		<p>img src="(image URL)" alt="(tieu de)" title="(tieu de)" width="(do rong)" height="(do cao)"</p>
+		<img src="img104.JPG" alt="Fallout" title="Fallout" width="350" height="140">
+
+		<p>Tao link lien ket bang hinh anh: chen img vao noi dung a</p>
+		<a href="#"><img src="img104.JPG" alt="Fallout" title="Fallout" width="350" height="140"></a>
+
+		<p>Hien thi danh sach: ul(khong thu tu), ol(co thu tu)</p>
+		<ul>
+			<p>ul: khong thu tu</p>
+			<p>khai bao "li" tao lap danh sach</p>
+			<li><a href="https://tiki.vn" target="_blank">tiki</a></li>
+			<li><a href="https://www.lazada.vn" target="_blank">lazada</a></li>
+			<li><a href="https://www.sendo.vn" target="_blank">sendo</a></li>
+		</ul>
+		<ol>
+			<p>ol: co thu tu</p>
+			<li><a href="https://tiki.vn" target="_blank">tiki</a></li>
+			<li><a href="https://www.lazada.vn" target="_blank">lazada</a></li>
+			<li><a href="https://www.sendo.vn" target="_blank">sendo</a></li>
+		</ol>
+
+		<p>Thiet ke bang trong HTML: table border="..." -> tr(table row) -> th(danh muc) / td(chuc nang tuong ung)</p>
+		<table border="1">
+			<tr>
+				<td>1</td>
+				<td>2</td>
+			</tr>
+			<tr>
+				<td colspan="2">3</td>
+			</tr>
+			<tr>
+				<td>td colspan="2"</td>
+			</tr>
+		</table>
+		<table border="1">
+			<p>Database</p>
+			<tr>
+				<th>ID</th>
+				<th>Name</th>
+				<th>Email</th>
+				<th>Country</th>
+				<th>Gender</th>
+			</tr>
+			<tr>
+				<td>1</td>
+				<td>Bach Van Kim</td>
+				<td>contact@hahaha.com</td>
+				<td>Vietnam</td>
+				<td>male</td>
+			</tr>
+			<tr>
+				<td>2</td>
+				<td>Luc Van Tien</td>
+				<td>callme@hahaha.com</td>
+				<td>Laos</td>
+				<td>female</td>
+			</tr>
+		</table>
+		<table border="1">
+			<tr>
+				<th>ID</th>
+				<td>1</td>
+				<td>2</td>
+			</tr>
+			<tr>
+				<th>Name</th>
+				<td>Bach Van Kim</td>
+				<td>Luc Van Tien</td>
+			</tr>
+			<tr>
+				<th>Email</th>
+				<td>contact@hahaha.com</td>
+				<td>callme@hahaha.com</td>
+			</tr>
+			<tr>
+				<th>Country</th>
+				<td>Vietnam</td>
+				<td>Laos</td>
+			</tr>
+			<tr>
+				<th>Gender</th>
+				<td>male</td>
+				<td>female</td>
+			</tr>				
+		</table>
+
+		<p>Tao form du lieu</p>
+			<p>Hien border: "search" (input type="text" value="...")</p>
+				<form action="" method="GET" accept-charset="UTF-8">
+					<input type="text" value="Search">
+				</form>
+			<p>Hien border goi y: "search" (input type="text" value="" placeholder="...")(html5)</p>
+				<form action="" method="GET" accept-charset="UTF-8">
+					<input type="text" value="" placeholder="Search">
+				</form>
+			<p>Chu thich cho border (chen truoc noi dung input)</p>
+				<form action="" method="" accept-charset="">
+					Tim kiem:
+					<input type="text" value="" placeholder="Dien vao day">
+				</form>
+			<p>Can gan Label cho border (vi tien loi hon danh thu cong)</p>
+				<form action="" method="" accept-charset="">
+					<p>label for="...">Name</p>
+					<label for="Tim kiem">Name:</label>
+					<input type="text" value="" name="Tim kiem" placeholder="Search">
+				</form>
+			<p>Hien thi noi dung lon (textarea)</p>
+				<label for="Introduce">Introduce:</label>
+				<textarea name="Introduce" id="" cols="30" rows="10"></textarea>
+			<p>Xuong dong: br</p>
+
+			<p>Cac kieu input trong form</p>
+				<form action="" method="" accept-charset="UTF-8">
+					<br>color<input type="color">
+					<br>checkbox<input type="checkbox">
+					<br>date<input type="date">
+					<br>datetime<input type="datetime">
+					<br>datetime-local<input type="datetime-local">
+					<br>email<input type="email">
+					<br>file<input type="file">
+					<br>hidden<input type="hidden">
+					<br>image<input type="image">
+					<br>month<input type="month">
+					<br>number<input type="number">
+					<br>password<input type="password">
+					<br>radio<input type="radio">
+					<br>range<input type="range">
+					<br>reset<input type="reset">
+					<br>search<input type="search">
+					<br>tel<input type="tel">
+					<br>url<input type="url">
+					<br>week<input type ="week">
+				</form>
+
+			<p>Tao danh sach lua chon trong form: select -> optgroup(label) -> option</p>
+				<form action="" method="" accept-charset="UTF-8">
+					<select>
+						<optgroup label="social networks">
+							<option value="">facebook</option>
+							<option value="">instagram</option>
+							<option value="">zalo</option>
+						</optgroup>
+					</select>
+					
+				</form>
+	</body>
+</html>
