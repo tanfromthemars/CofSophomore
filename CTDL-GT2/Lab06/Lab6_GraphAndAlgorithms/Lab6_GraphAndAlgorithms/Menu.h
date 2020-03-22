@@ -5,6 +5,8 @@
 	cout << "\n1. Doc du lieu tu tap tin";
 	cout << "\n2. Tim cay bao trum toi thieu bang thuat toan Prim";
 	cout << "\n3. Tim cay bao trum toi thieu bang thuat toan Kruskal";
+	cout << "\n4. Tim duong di ngan nhat tu 1 dinh den cac dinh con lai bang thuat toan Dijkstra";
+	cout << "\n5. Tim duong di ngan nhat giua moi cap dinh bang thuat toan Floyd";
 	cout << "\n============================================================================";
 }
 
@@ -26,11 +28,9 @@ int Chonmenu(int somenu)
 void Xulymenu(int menu, Graph& g)
 {
 	//Khai báo các biến phục vụ các chức năng
-	int stt;
+	int stt, p1, p2;
 	LabelType lab;
-	int p1, p2;
 	char u, v;
-	int w;
 	char filename[10] = "Text_.txt";
 	Path tree1[MAX];
 	Edge tree2[MAX];
@@ -72,6 +72,25 @@ void Xulymenu(int menu, Graph& g)
 		ResetFlags(g);
 		Kruskal(g, tree2);
 		PrintKruskalMST(g, tree2);
+		break;
+
+	case 4:
+		cout << "\n4. Tim duong di ngan nhat tu 1 dinh den cac dinh con lai bang thuat toan Dijkstra\n";
+		do
+		{
+			cout << "\nNhap ten dinh bat dau: ";
+			cin >> u;
+			p1 = FindIndexOfVertex(g, u);
+		} while (p1 == -1);
+		PrintAllPath_Dijkstra(g, p1);
+		break;
+
+	case 5:
+		cout << "\n5. Tim duong di ngan nhat giua moi cap dinh bang thuat toan Floyd\n";
+		Floyd(g, route);
+		Print_AllFloydPath(g);
+		break;
+	default:
 		break;
 	}
 	_getch();

@@ -23,7 +23,7 @@ int main()
 void Chaychuongtrinh()
 {
 	Graph g;
-	int menu, somenu = 3;
+	int menu, somenu = 5;
 	do
 	{
 		menu = Chonmenu(somenu);
