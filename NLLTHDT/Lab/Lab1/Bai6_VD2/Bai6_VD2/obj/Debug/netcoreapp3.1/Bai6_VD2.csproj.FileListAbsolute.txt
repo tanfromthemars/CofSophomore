@@ -1,0 +1,10 @@
+C:\Users\PC1\source\repos\Bai6_VD2\Bai6_VD2\bin\Debug\netcoreapp3.1\Bai6_VD2.exe
+C:\Users\PC1\source\repos\Bai6_VD2\Bai6_VD2\bin\Debug\netcoreapp3.1\Bai6_VD2.deps.json
+C:\Users\PC1\source\repos\Bai6_VD2\Bai6_VD2\bin\Debug\netcoreapp3.1\Bai6_VD2.runtimeconfig.json
+C:\Users\PC1\source\repos\Bai6_VD2\Bai6_VD2\bin\Debug\netcoreapp3.1\Bai6_VD2.runtimeconfig.dev.json
+C:\Users\PC1\source\repos\Bai6_VD2\Bai6_VD2\bin\Debug\netcoreapp3.1\Bai6_VD2.dll
+C:\Users\PC1\source\repos\Bai6_VD2\Bai6_VD2\bin\Debug\netcoreapp3.1\Bai6_VD2.pdb
+C:\Users\PC1\source\repos\Bai6_VD2\Bai6_VD2\obj\Debug\netcoreapp3.1\Bai6_VD2.AssemblyInfoInputs.cache
+C:\Users\PC1\source\repos\Bai6_VD2\Bai6_VD2\obj\Debug\netcoreapp3.1\Bai6_VD2.AssemblyInfo.cs
+C:\Users\PC1\source\repos\Bai6_VD2\Bai6_VD2\obj\Debug\netcoreapp3.1\Bai6_VD2.dll
+C:\Users\PC1\source\repos\Bai6_VD2\Bai6_VD2\obj\Debug\netcoreapp3.1\Bai6_VD2.pdb

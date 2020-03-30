@@ -1,0 +1,11 @@
+C:\Users\PC1\OneDrive\Desktop\CofSophomore\NLLTHDT\vidu6\vidu6\bin\Debug\netcoreapp3.1\vidu6.exe
+C:\Users\PC1\OneDrive\Desktop\CofSophomore\NLLTHDT\vidu6\vidu6\bin\Debug\netcoreapp3.1\vidu6.deps.json
+C:\Users\PC1\OneDrive\Desktop\CofSophomore\NLLTHDT\vidu6\vidu6\bin\Debug\netcoreapp3.1\vidu6.runtimeconfig.json
+C:\Users\PC1\OneDrive\Desktop\CofSophomore\NLLTHDT\vidu6\vidu6\bin\Debug\netcoreapp3.1\vidu6.runtimeconfig.dev.json
+C:\Users\PC1\OneDrive\Desktop\CofSophomore\NLLTHDT\vidu6\vidu6\bin\Debug\netcoreapp3.1\vidu6.dll
+C:\Users\PC1\OneDrive\Desktop\CofSophomore\NLLTHDT\vidu6\vidu6\bin\Debug\netcoreapp3.1\vidu6.pdb
+C:\Users\PC1\OneDrive\Desktop\CofSophomore\NLLTHDT\vidu6\vidu6\obj\Debug\netcoreapp3.1\vidu6.csprojAssemblyReference.cache
+C:\Users\PC1\OneDrive\Desktop\CofSophomore\NLLTHDT\vidu6\vidu6\obj\Debug\netcoreapp3.1\vidu6.AssemblyInfoInputs.cache
+C:\Users\PC1\OneDrive\Desktop\CofSophomore\NLLTHDT\vidu6\vidu6\obj\Debug\netcoreapp3.1\vidu6.AssemblyInfo.cs
+C:\Users\PC1\OneDrive\Desktop\CofSophomore\NLLTHDT\vidu6\vidu6\obj\Debug\netcoreapp3.1\vidu6.dll
+C:\Users\PC1\OneDrive\Desktop\CofSophomore\NLLTHDT\vidu6\vidu6\obj\Debug\netcoreapp3.1\vidu6.pdb

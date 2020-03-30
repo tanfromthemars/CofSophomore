@@ -1,0 +1,3 @@
+C:\Users\PC1\OneDrive\Desktop\CofSophomore\NLLTHDT\Lab\vidu2\vidu2\obj\Debug\netcoreapp3.1\vidu2.csprojAssemblyReference.cache
+C:\Users\PC1\OneDrive\Desktop\CofSophomore\NLLTHDT\Lab\vidu2\vidu2\obj\Debug\netcoreapp3.1\vidu2.AssemblyInfoInputs.cache
+C:\Users\PC1\OneDrive\Desktop\CofSophomore\NLLTHDT\Lab\vidu2\vidu2\obj\Debug\netcoreapp3.1\vidu2.AssemblyInfo.cs

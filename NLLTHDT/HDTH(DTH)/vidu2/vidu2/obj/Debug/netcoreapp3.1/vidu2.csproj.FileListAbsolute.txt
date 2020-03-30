@@ -1,0 +1,11 @@
+C:\Users\PC1\OneDrive\Desktop\CofSophomore\NLLTHDT\vidu2\vidu2\bin\Debug\netcoreapp3.1\vidu2.exe
+C:\Users\PC1\OneDrive\Desktop\CofSophomore\NLLTHDT\vidu2\vidu2\bin\Debug\netcoreapp3.1\vidu2.deps.json
+C:\Users\PC1\OneDrive\Desktop\CofSophomore\NLLTHDT\vidu2\vidu2\bin\Debug\netcoreapp3.1\vidu2.runtimeconfig.json
+C:\Users\PC1\OneDrive\Desktop\CofSophomore\NLLTHDT\vidu2\vidu2\bin\Debug\netcoreapp3.1\vidu2.runtimeconfig.dev.json
+C:\Users\PC1\OneDrive\Desktop\CofSophomore\NLLTHDT\vidu2\vidu2\bin\Debug\netcoreapp3.1\vidu2.dll
+C:\Users\PC1\OneDrive\Desktop\CofSophomore\NLLTHDT\vidu2\vidu2\bin\Debug\netcoreapp3.1\vidu2.pdb
+C:\Users\PC1\OneDrive\Desktop\CofSophomore\NLLTHDT\vidu2\vidu2\obj\Debug\netcoreapp3.1\vidu2.csprojAssemblyReference.cache
+C:\Users\PC1\OneDrive\Desktop\CofSophomore\NLLTHDT\vidu2\vidu2\obj\Debug\netcoreapp3.1\vidu2.AssemblyInfoInputs.cache
+C:\Users\PC1\OneDrive\Desktop\CofSophomore\NLLTHDT\vidu2\vidu2\obj\Debug\netcoreapp3.1\vidu2.AssemblyInfo.cs
+C:\Users\PC1\OneDrive\Desktop\CofSophomore\NLLTHDT\vidu2\vidu2\obj\Debug\netcoreapp3.1\vidu2.dll
+C:\Users\PC1\OneDrive\Desktop\CofSophomore\NLLTHDT\vidu2\vidu2\obj\Debug\netcoreapp3.1\vidu2.pdb

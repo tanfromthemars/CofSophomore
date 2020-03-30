@@ -1,0 +1,10 @@
+C:\Users\PC1\OneDrive\Desktop\CofSophomore\NLLTHDT\viduvoiref\viduvoiref\bin\Debug\netcoreapp3.1\viduvoiref.exe
+C:\Users\PC1\OneDrive\Desktop\CofSophomore\NLLTHDT\viduvoiref\viduvoiref\bin\Debug\netcoreapp3.1\viduvoiref.deps.json
+C:\Users\PC1\OneDrive\Desktop\CofSophomore\NLLTHDT\viduvoiref\viduvoiref\bin\Debug\netcoreapp3.1\viduvoiref.runtimeconfig.json
+C:\Users\PC1\OneDrive\Desktop\CofSophomore\NLLTHDT\viduvoiref\viduvoiref\bin\Debug\netcoreapp3.1\viduvoiref.runtimeconfig.dev.json
+C:\Users\PC1\OneDrive\Desktop\CofSophomore\NLLTHDT\viduvoiref\viduvoiref\bin\Debug\netcoreapp3.1\viduvoiref.dll
+C:\Users\PC1\OneDrive\Desktop\CofSophomore\NLLTHDT\viduvoiref\viduvoiref\bin\Debug\netcoreapp3.1\viduvoiref.pdb
+C:\Users\PC1\OneDrive\Desktop\CofSophomore\NLLTHDT\viduvoiref\viduvoiref\obj\Debug\netcoreapp3.1\viduvoiref.AssemblyInfoInputs.cache
+C:\Users\PC1\OneDrive\Desktop\CofSophomore\NLLTHDT\viduvoiref\viduvoiref\obj\Debug\netcoreapp3.1\viduvoiref.AssemblyInfo.cs
+C:\Users\PC1\OneDrive\Desktop\CofSophomore\NLLTHDT\viduvoiref\viduvoiref\obj\Debug\netcoreapp3.1\viduvoiref.dll
+C:\Users\PC1\OneDrive\Desktop\CofSophomore\NLLTHDT\viduvoiref\viduvoiref\obj\Debug\netcoreapp3.1\viduvoiref.pdb

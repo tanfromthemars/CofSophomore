@@ -1,0 +1,11 @@
+C:\Users\PC1\OneDrive\Desktop\CofSophomore\NLLTHDT\PassingByVal\PassingByVal\bin\Debug\netcoreapp3.1\PassingByVal.exe
+C:\Users\PC1\OneDrive\Desktop\CofSophomore\NLLTHDT\PassingByVal\PassingByVal\bin\Debug\netcoreapp3.1\PassingByVal.deps.json
+C:\Users\PC1\OneDrive\Desktop\CofSophomore\NLLTHDT\PassingByVal\PassingByVal\bin\Debug\netcoreapp3.1\PassingByVal.runtimeconfig.json
+C:\Users\PC1\OneDrive\Desktop\CofSophomore\NLLTHDT\PassingByVal\PassingByVal\bin\Debug\netcoreapp3.1\PassingByVal.runtimeconfig.dev.json
+C:\Users\PC1\OneDrive\Desktop\CofSophomore\NLLTHDT\PassingByVal\PassingByVal\bin\Debug\netcoreapp3.1\PassingByVal.dll
+C:\Users\PC1\OneDrive\Desktop\CofSophomore\NLLTHDT\PassingByVal\PassingByVal\bin\Debug\netcoreapp3.1\PassingByVal.pdb
+C:\Users\PC1\OneDrive\Desktop\CofSophomore\NLLTHDT\PassingByVal\PassingByVal\obj\Debug\netcoreapp3.1\PassingByVal.csprojAssemblyReference.cache
+C:\Users\PC1\OneDrive\Desktop\CofSophomore\NLLTHDT\PassingByVal\PassingByVal\obj\Debug\netcoreapp3.1\PassingByVal.AssemblyInfoInputs.cache
+C:\Users\PC1\OneDrive\Desktop\CofSophomore\NLLTHDT\PassingByVal\PassingByVal\obj\Debug\netcoreapp3.1\PassingByVal.AssemblyInfo.cs
+C:\Users\PC1\OneDrive\Desktop\CofSophomore\NLLTHDT\PassingByVal\PassingByVal\obj\Debug\netcoreapp3.1\PassingByVal.dll
+C:\Users\PC1\OneDrive\Desktop\CofSophomore\NLLTHDT\PassingByVal\PassingByVal\obj\Debug\netcoreapp3.1\PassingByVal.pdb
