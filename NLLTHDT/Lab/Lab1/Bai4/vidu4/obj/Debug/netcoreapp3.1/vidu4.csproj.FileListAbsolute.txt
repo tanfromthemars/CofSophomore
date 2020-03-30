@@ -1,0 +1,11 @@
+C:\Users\PC1\source\repos\vidu4\vidu4\bin\Debug\netcoreapp3.1\vidu4.exe
+C:\Users\PC1\source\repos\vidu4\vidu4\bin\Debug\netcoreapp3.1\vidu4.deps.json
+C:\Users\PC1\source\repos\vidu4\vidu4\bin\Debug\netcoreapp3.1\vidu4.runtimeconfig.json
+C:\Users\PC1\source\repos\vidu4\vidu4\bin\Debug\netcoreapp3.1\vidu4.runtimeconfig.dev.json
+C:\Users\PC1\source\repos\vidu4\vidu4\bin\Debug\netcoreapp3.1\vidu4.dll
+C:\Users\PC1\source\repos\vidu4\vidu4\bin\Debug\netcoreapp3.1\vidu4.pdb
+C:\Users\PC1\source\repos\vidu4\vidu4\obj\Debug\netcoreapp3.1\vidu4.csprojAssemblyReference.cache
+C:\Users\PC1\source\repos\vidu4\vidu4\obj\Debug\netcoreapp3.1\vidu4.AssemblyInfoInputs.cache
+C:\Users\PC1\source\repos\vidu4\vidu4\obj\Debug\netcoreapp3.1\vidu4.AssemblyInfo.cs
+C:\Users\PC1\source\repos\vidu4\vidu4\obj\Debug\netcoreapp3.1\vidu4.dll
+C:\Users\PC1\source\repos\vidu4\vidu4\obj\Debug\netcoreapp3.1\vidu4.pdb
