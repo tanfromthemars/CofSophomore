@@ -1,0 +1,11 @@
+C:\Users\PC1\source\repos\Bai7\Bai7\bin\Debug\netcoreapp3.1\Bai7.exe
+C:\Users\PC1\source\repos\Bai7\Bai7\bin\Debug\netcoreapp3.1\Bai7.deps.json
+C:\Users\PC1\source\repos\Bai7\Bai7\bin\Debug\netcoreapp3.1\Bai7.runtimeconfig.json
+C:\Users\PC1\source\repos\Bai7\Bai7\bin\Debug\netcoreapp3.1\Bai7.runtimeconfig.dev.json
+C:\Users\PC1\source\repos\Bai7\Bai7\bin\Debug\netcoreapp3.1\Bai7.dll
+C:\Users\PC1\source\repos\Bai7\Bai7\bin\Debug\netcoreapp3.1\Bai7.pdb
+C:\Users\PC1\source\repos\Bai7\Bai7\obj\Debug\netcoreapp3.1\Bai7.csprojAssemblyReference.cache
+C:\Users\PC1\source\repos\Bai7\Bai7\obj\Debug\netcoreapp3.1\Bai7.AssemblyInfoInputs.cache
+C:\Users\PC1\source\repos\Bai7\Bai7\obj\Debug\netcoreapp3.1\Bai7.AssemblyInfo.cs
+C:\Users\PC1\source\repos\Bai7\Bai7\obj\Debug\netcoreapp3.1\Bai7.dll
+C:\Users\PC1\source\repos\Bai7\Bai7\obj\Debug\netcoreapp3.1\Bai7.pdb
