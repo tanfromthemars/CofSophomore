@@ -1,0 +1,11 @@
+C:\Users\PC1\source\repos\Baitap2\Baitap2\bin\Debug\netcoreapp3.1\Baitap2.exe
+C:\Users\PC1\source\repos\Baitap2\Baitap2\bin\Debug\netcoreapp3.1\Baitap2.deps.json
+C:\Users\PC1\source\repos\Baitap2\Baitap2\bin\Debug\netcoreapp3.1\Baitap2.runtimeconfig.json
+C:\Users\PC1\source\repos\Baitap2\Baitap2\bin\Debug\netcoreapp3.1\Baitap2.runtimeconfig.dev.json
+C:\Users\PC1\source\repos\Baitap2\Baitap2\bin\Debug\netcoreapp3.1\Baitap2.dll
+C:\Users\PC1\source\repos\Baitap2\Baitap2\bin\Debug\netcoreapp3.1\Baitap2.pdb
+C:\Users\PC1\source\repos\Baitap2\Baitap2\obj\Debug\netcoreapp3.1\Baitap2.csprojAssemblyReference.cache
+C:\Users\PC1\source\repos\Baitap2\Baitap2\obj\Debug\netcoreapp3.1\Baitap2.AssemblyInfoInputs.cache
+C:\Users\PC1\source\repos\Baitap2\Baitap2\obj\Debug\netcoreapp3.1\Baitap2.AssemblyInfo.cs
+C:\Users\PC1\source\repos\Baitap2\Baitap2\obj\Debug\netcoreapp3.1\Baitap2.dll
+C:\Users\PC1\source\repos\Baitap2\Baitap2\obj\Debug\netcoreapp3.1\Baitap2.pdb
