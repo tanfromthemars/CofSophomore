@@ -1,0 +1,10 @@
+C:\Users\PC1\source\repos\Phanso\Phanso\bin\Debug\netcoreapp3.1\Phanso.exe
+C:\Users\PC1\source\repos\Phanso\Phanso\bin\Debug\netcoreapp3.1\Phanso.deps.json
+C:\Users\PC1\source\repos\Phanso\Phanso\bin\Debug\netcoreapp3.1\Phanso.runtimeconfig.json
+C:\Users\PC1\source\repos\Phanso\Phanso\bin\Debug\netcoreapp3.1\Phanso.runtimeconfig.dev.json
+C:\Users\PC1\source\repos\Phanso\Phanso\bin\Debug\netcoreapp3.1\Phanso.dll
+C:\Users\PC1\source\repos\Phanso\Phanso\bin\Debug\netcoreapp3.1\Phanso.pdb
+C:\Users\PC1\source\repos\Phanso\Phanso\obj\Debug\netcoreapp3.1\Phanso.AssemblyInfoInputs.cache
+C:\Users\PC1\source\repos\Phanso\Phanso\obj\Debug\netcoreapp3.1\Phanso.AssemblyInfo.cs
+C:\Users\PC1\source\repos\Phanso\Phanso\obj\Debug\netcoreapp3.1\Phanso.dll
+C:\Users\PC1\source\repos\Phanso\Phanso\obj\Debug\netcoreapp3.1\Phanso.pdb

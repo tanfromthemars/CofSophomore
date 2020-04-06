@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC1\\source\\repos\\Baitap7\\Baitap7\\Baitap7.csproj": {}
+    "C:\\Users\\PC1\\OneDrive\\Desktop\\CofSophomore\\NLLTHDT\\Lab\\Lab2\\Baitap7\\Baitap7\\Baitap7.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC1\\source\\repos\\Baitap7\\Baitap7\\Baitap7.csproj": {
+    "C:\\Users\\PC1\\OneDrive\\Desktop\\CofSophomore\\NLLTHDT\\Lab\\Lab2\\Baitap7\\Baitap7\\Baitap7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC1\\source\\repos\\Baitap7\\Baitap7\\Baitap7.csproj",
+        "projectUniqueName": "C:\\Users\\PC1\\OneDrive\\Desktop\\CofSophomore\\NLLTHDT\\Lab\\Lab2\\Baitap7\\Baitap7\\Baitap7.csproj",
         "projectName": "Baitap7",
-        "projectPath": "C:\\Users\\PC1\\source\\repos\\Baitap7\\Baitap7\\Baitap7.csproj",
+        "projectPath": "C:\\Users\\PC1\\OneDrive\\Desktop\\CofSophomore\\NLLTHDT\\Lab\\Lab2\\Baitap7\\Baitap7\\Baitap7.csproj",
         "packagesPath": "C:\\Users\\PC1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC1\\source\\repos\\Baitap7\\Baitap7\\obj\\",
+        "outputPath": "C:\\Users\\PC1\\OneDrive\\Desktop\\CofSophomore\\NLLTHDT\\Lab\\Lab2\\Baitap7\\Baitap7\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
