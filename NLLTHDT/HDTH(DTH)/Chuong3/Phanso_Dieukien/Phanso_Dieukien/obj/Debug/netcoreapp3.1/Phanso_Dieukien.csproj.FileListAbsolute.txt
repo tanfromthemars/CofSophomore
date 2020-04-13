@@ -1,0 +1,11 @@
+C:\Users\PC1\source\repos\Phanso_Dieukien\Phanso_Dieukien\obj\Debug\netcoreapp3.1\Phanso_Dieukien.csprojAssemblyReference.cache
+C:\Users\PC1\source\repos\Phanso_Dieukien\Phanso_Dieukien\obj\Debug\netcoreapp3.1\Phanso_Dieukien.AssemblyInfoInputs.cache
+C:\Users\PC1\source\repos\Phanso_Dieukien\Phanso_Dieukien\obj\Debug\netcoreapp3.1\Phanso_Dieukien.AssemblyInfo.cs
+C:\Users\PC1\source\repos\Phanso_Dieukien\Phanso_Dieukien\bin\Debug\netcoreapp3.1\Phanso_Dieukien.exe
+C:\Users\PC1\source\repos\Phanso_Dieukien\Phanso_Dieukien\bin\Debug\netcoreapp3.1\Phanso_Dieukien.deps.json
+C:\Users\PC1\source\repos\Phanso_Dieukien\Phanso_Dieukien\bin\Debug\netcoreapp3.1\Phanso_Dieukien.runtimeconfig.json
+C:\Users\PC1\source\repos\Phanso_Dieukien\Phanso_Dieukien\bin\Debug\netcoreapp3.1\Phanso_Dieukien.runtimeconfig.dev.json
+C:\Users\PC1\source\repos\Phanso_Dieukien\Phanso_Dieukien\bin\Debug\netcoreapp3.1\Phanso_Dieukien.dll
+C:\Users\PC1\source\repos\Phanso_Dieukien\Phanso_Dieukien\bin\Debug\netcoreapp3.1\Phanso_Dieukien.pdb
+C:\Users\PC1\source\repos\Phanso_Dieukien\Phanso_Dieukien\obj\Debug\netcoreapp3.1\Phanso_Dieukien.dll
+C:\Users\PC1\source\repos\Phanso_Dieukien\Phanso_Dieukien\obj\Debug\netcoreapp3.1\Phanso_Dieukien.pdb

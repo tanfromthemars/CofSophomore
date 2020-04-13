@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC1\\OneDrive\\Desktop\\CofSophomore\\NLLTHDT\\HDTH(DTH)\\vidu6_Static\\vidu6\\vidu6.csproj",
+      "projectUniqueName": "C:\\Users\\PC1\\OneDrive\\Desktop\\CofSophomore\\NLLTHDT\\HDTH(DTH)\\Chuong2\\vidu6_StaticIBang10\\vidu6\\vidu6.csproj",
       "projectName": "vidu6",
-      "projectPath": "C:\\Users\\PC1\\OneDrive\\Desktop\\CofSophomore\\NLLTHDT\\HDTH(DTH)\\vidu6_Static\\vidu6\\vidu6.csproj",
+      "projectPath": "C:\\Users\\PC1\\OneDrive\\Desktop\\CofSophomore\\NLLTHDT\\HDTH(DTH)\\Chuong2\\vidu6_StaticIBang10\\vidu6\\vidu6.csproj",
       "packagesPath": "C:\\Users\\PC1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC1\\OneDrive\\Desktop\\CofSophomore\\NLLTHDT\\HDTH(DTH)\\vidu6_Static\\vidu6\\obj\\",
+      "outputPath": "C:\\Users\\PC1\\OneDrive\\Desktop\\CofSophomore\\NLLTHDT\\HDTH(DTH)\\Chuong2\\vidu6_StaticIBang10\\vidu6\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

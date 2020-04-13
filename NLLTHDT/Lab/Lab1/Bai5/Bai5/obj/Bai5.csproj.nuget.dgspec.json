@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC1\\source\\repos\\Bai5\\Bai5\\Bai5.csproj": {}
+    "C:\\Users\\PC1\\OneDrive\\Desktop\\CofSophomore\\NLLTHDT\\Lab\\Lab1\\Bai5\\Bai5\\Bai5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC1\\source\\repos\\Bai5\\Bai5\\Bai5.csproj": {
+    "C:\\Users\\PC1\\OneDrive\\Desktop\\CofSophomore\\NLLTHDT\\Lab\\Lab1\\Bai5\\Bai5\\Bai5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC1\\source\\repos\\Bai5\\Bai5\\Bai5.csproj",
+        "projectUniqueName": "C:\\Users\\PC1\\OneDrive\\Desktop\\CofSophomore\\NLLTHDT\\Lab\\Lab1\\Bai5\\Bai5\\Bai5.csproj",
         "projectName": "Bai5",
-        "projectPath": "C:\\Users\\PC1\\source\\repos\\Bai5\\Bai5\\Bai5.csproj",
+        "projectPath": "C:\\Users\\PC1\\OneDrive\\Desktop\\CofSophomore\\NLLTHDT\\Lab\\Lab1\\Bai5\\Bai5\\Bai5.csproj",
         "packagesPath": "C:\\Users\\PC1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC1\\source\\repos\\Bai5\\Bai5\\obj\\",
+        "outputPath": "C:\\Users\\PC1\\OneDrive\\Desktop\\CofSophomore\\NLLTHDT\\Lab\\Lab1\\Bai5\\Bai5\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC1\\source\\repos\\Phanso\\Phanso\\Phanso.csproj": {}
+    "C:\\Users\\PC1\\OneDrive\\Desktop\\CofSophomore\\NLLTHDT\\HDTH(DTH)\\Chuong2\\Phanso_Cong\\Phanso\\Phanso.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC1\\source\\repos\\Phanso\\Phanso\\Phanso.csproj": {
+    "C:\\Users\\PC1\\OneDrive\\Desktop\\CofSophomore\\NLLTHDT\\HDTH(DTH)\\Chuong2\\Phanso_Cong\\Phanso\\Phanso.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC1\\source\\repos\\Phanso\\Phanso\\Phanso.csproj",
+        "projectUniqueName": "C:\\Users\\PC1\\OneDrive\\Desktop\\CofSophomore\\NLLTHDT\\HDTH(DTH)\\Chuong2\\Phanso_Cong\\Phanso\\Phanso.csproj",
         "projectName": "Phanso",
-        "projectPath": "C:\\Users\\PC1\\source\\repos\\Phanso\\Phanso\\Phanso.csproj",
+        "projectPath": "C:\\Users\\PC1\\OneDrive\\Desktop\\CofSophomore\\NLLTHDT\\HDTH(DTH)\\Chuong2\\Phanso_Cong\\Phanso\\Phanso.csproj",
         "packagesPath": "C:\\Users\\PC1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC1\\source\\repos\\Phanso\\Phanso\\obj\\",
+        "outputPath": "C:\\Users\\PC1\\OneDrive\\Desktop\\CofSophomore\\NLLTHDT\\HDTH(DTH)\\Chuong2\\Phanso_Cong\\Phanso\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

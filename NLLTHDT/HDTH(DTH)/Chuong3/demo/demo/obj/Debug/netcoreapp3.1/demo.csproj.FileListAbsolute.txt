@@ -1,0 +1,11 @@
+C:\Users\PC1\source\repos\demo\demo\obj\Debug\netcoreapp3.1\demo.csprojAssemblyReference.cache
+C:\Users\PC1\source\repos\demo\demo\obj\Debug\netcoreapp3.1\demo.AssemblyInfoInputs.cache
+C:\Users\PC1\source\repos\demo\demo\obj\Debug\netcoreapp3.1\demo.AssemblyInfo.cs
+C:\Users\PC1\source\repos\demo\demo\bin\Debug\netcoreapp3.1\demo.exe
+C:\Users\PC1\source\repos\demo\demo\bin\Debug\netcoreapp3.1\demo.deps.json
+C:\Users\PC1\source\repos\demo\demo\bin\Debug\netcoreapp3.1\demo.runtimeconfig.json
+C:\Users\PC1\source\repos\demo\demo\bin\Debug\netcoreapp3.1\demo.runtimeconfig.dev.json
+C:\Users\PC1\source\repos\demo\demo\bin\Debug\netcoreapp3.1\demo.dll
+C:\Users\PC1\source\repos\demo\demo\bin\Debug\netcoreapp3.1\demo.pdb
+C:\Users\PC1\source\repos\demo\demo\obj\Debug\netcoreapp3.1\demo.dll
+C:\Users\PC1\source\repos\demo\demo\obj\Debug\netcoreapp3.1\demo.pdb
