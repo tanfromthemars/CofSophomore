@@ -1,0 +1,11 @@
+C:\Users\PC1\source\repos\Lab04\Lab04\bin\Debug\netcoreapp3.1\Lab04.exe
+C:\Users\PC1\source\repos\Lab04\Lab04\bin\Debug\netcoreapp3.1\Lab04.deps.json
+C:\Users\PC1\source\repos\Lab04\Lab04\bin\Debug\netcoreapp3.1\Lab04.runtimeconfig.json
+C:\Users\PC1\source\repos\Lab04\Lab04\bin\Debug\netcoreapp3.1\Lab04.runtimeconfig.dev.json
+C:\Users\PC1\source\repos\Lab04\Lab04\bin\Debug\netcoreapp3.1\Lab04.dll
+C:\Users\PC1\source\repos\Lab04\Lab04\bin\Debug\netcoreapp3.1\Lab04.pdb
+C:\Users\PC1\source\repos\Lab04\Lab04\obj\Debug\netcoreapp3.1\Lab04.csprojAssemblyReference.cache
+C:\Users\PC1\source\repos\Lab04\Lab04\obj\Debug\netcoreapp3.1\Lab04.AssemblyInfoInputs.cache
+C:\Users\PC1\source\repos\Lab04\Lab04\obj\Debug\netcoreapp3.1\Lab04.AssemblyInfo.cs
+C:\Users\PC1\source\repos\Lab04\Lab04\obj\Debug\netcoreapp3.1\Lab04.dll
+C:\Users\PC1\source\repos\Lab04\Lab04\obj\Debug\netcoreapp3.1\Lab04.pdb
