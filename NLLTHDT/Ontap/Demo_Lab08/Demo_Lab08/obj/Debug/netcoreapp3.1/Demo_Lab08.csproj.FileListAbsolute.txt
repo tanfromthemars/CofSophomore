@@ -1,0 +1,13 @@
+C:\Users\PC1\source\repos\Demo_Lab08\Demo_Lab08\bin\Debug\netcoreapp3.1\Demo_Lab08.exe
+C:\Users\PC1\source\repos\Demo_Lab08\Demo_Lab08\bin\Debug\netcoreapp3.1\Demo_Lab08.deps.json
+C:\Users\PC1\source\repos\Demo_Lab08\Demo_Lab08\bin\Debug\netcoreapp3.1\Demo_Lab08.runtimeconfig.json
+C:\Users\PC1\source\repos\Demo_Lab08\Demo_Lab08\bin\Debug\netcoreapp3.1\Demo_Lab08.runtimeconfig.dev.json
+C:\Users\PC1\source\repos\Demo_Lab08\Demo_Lab08\bin\Debug\netcoreapp3.1\Demo_Lab08.dll
+C:\Users\PC1\source\repos\Demo_Lab08\Demo_Lab08\bin\Debug\netcoreapp3.1\Demo_Lab08.pdb
+C:\Users\PC1\source\repos\Demo_Lab08\Demo_Lab08\obj\Debug\netcoreapp3.1\Demo_Lab08.csprojAssemblyReference.cache
+C:\Users\PC1\source\repos\Demo_Lab08\Demo_Lab08\obj\Debug\netcoreapp3.1\Demo_Lab08.AssemblyInfoInputs.cache
+C:\Users\PC1\source\repos\Demo_Lab08\Demo_Lab08\obj\Debug\netcoreapp3.1\Demo_Lab08.AssemblyInfo.cs
+C:\Users\PC1\source\repos\Demo_Lab08\Demo_Lab08\obj\Debug\netcoreapp3.1\Demo_Lab08.csproj.CoreCompileInputs.cache
+C:\Users\PC1\source\repos\Demo_Lab08\Demo_Lab08\obj\Debug\netcoreapp3.1\Demo_Lab08.dll
+C:\Users\PC1\source\repos\Demo_Lab08\Demo_Lab08\obj\Debug\netcoreapp3.1\Demo_Lab08.pdb
+C:\Users\PC1\source\repos\Demo_Lab08\Demo_Lab08\obj\Debug\netcoreapp3.1\Demo_Lab08.genruntimeconfig.cache

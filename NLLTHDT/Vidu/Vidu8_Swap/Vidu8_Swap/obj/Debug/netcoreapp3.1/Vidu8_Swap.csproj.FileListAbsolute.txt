@@ -1,0 +1,10 @@
+C:\Users\PC1\source\repos\Vidu8_Swap\Vidu8_Swap\bin\Debug\netcoreapp3.1\Vidu8_Swap.exe
+C:\Users\PC1\source\repos\Vidu8_Swap\Vidu8_Swap\bin\Debug\netcoreapp3.1\Vidu8_Swap.deps.json
+C:\Users\PC1\source\repos\Vidu8_Swap\Vidu8_Swap\bin\Debug\netcoreapp3.1\Vidu8_Swap.runtimeconfig.json
+C:\Users\PC1\source\repos\Vidu8_Swap\Vidu8_Swap\bin\Debug\netcoreapp3.1\Vidu8_Swap.runtimeconfig.dev.json
+C:\Users\PC1\source\repos\Vidu8_Swap\Vidu8_Swap\bin\Debug\netcoreapp3.1\Vidu8_Swap.dll
+C:\Users\PC1\source\repos\Vidu8_Swap\Vidu8_Swap\bin\Debug\netcoreapp3.1\Vidu8_Swap.pdb
+C:\Users\PC1\source\repos\Vidu8_Swap\Vidu8_Swap\obj\Debug\netcoreapp3.1\Vidu8_Swap.AssemblyInfoInputs.cache
+C:\Users\PC1\source\repos\Vidu8_Swap\Vidu8_Swap\obj\Debug\netcoreapp3.1\Vidu8_Swap.AssemblyInfo.cs
+C:\Users\PC1\source\repos\Vidu8_Swap\Vidu8_Swap\obj\Debug\netcoreapp3.1\Vidu8_Swap.dll
+C:\Users\PC1\source\repos\Vidu8_Swap\Vidu8_Swap\obj\Debug\netcoreapp3.1\Vidu8_Swap.pdb

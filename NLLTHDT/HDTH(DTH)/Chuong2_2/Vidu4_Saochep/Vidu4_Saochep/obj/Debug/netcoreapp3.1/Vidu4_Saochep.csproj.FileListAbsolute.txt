@@ -1,0 +1,10 @@
+C:\Users\PC1\source\repos\Vidu4_Saochep\Vidu4_Saochep\bin\Debug\netcoreapp3.1\Vidu4_Saochep.exe
+C:\Users\PC1\source\repos\Vidu4_Saochep\Vidu4_Saochep\bin\Debug\netcoreapp3.1\Vidu4_Saochep.deps.json
+C:\Users\PC1\source\repos\Vidu4_Saochep\Vidu4_Saochep\bin\Debug\netcoreapp3.1\Vidu4_Saochep.runtimeconfig.json
+C:\Users\PC1\source\repos\Vidu4_Saochep\Vidu4_Saochep\bin\Debug\netcoreapp3.1\Vidu4_Saochep.runtimeconfig.dev.json
+C:\Users\PC1\source\repos\Vidu4_Saochep\Vidu4_Saochep\bin\Debug\netcoreapp3.1\Vidu4_Saochep.dll
+C:\Users\PC1\source\repos\Vidu4_Saochep\Vidu4_Saochep\bin\Debug\netcoreapp3.1\Vidu4_Saochep.pdb
+C:\Users\PC1\source\repos\Vidu4_Saochep\Vidu4_Saochep\obj\Debug\netcoreapp3.1\Vidu4_Saochep.AssemblyInfoInputs.cache
+C:\Users\PC1\source\repos\Vidu4_Saochep\Vidu4_Saochep\obj\Debug\netcoreapp3.1\Vidu4_Saochep.AssemblyInfo.cs
+C:\Users\PC1\source\repos\Vidu4_Saochep\Vidu4_Saochep\obj\Debug\netcoreapp3.1\Vidu4_Saochep.dll
+C:\Users\PC1\source\repos\Vidu4_Saochep\Vidu4_Saochep\obj\Debug\netcoreapp3.1\Vidu4_Saochep.pdb

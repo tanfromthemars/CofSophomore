@@ -1,0 +1,10 @@
+C:\Users\PC1\source\repos\Vidu9_Time\Vidu9_Time\bin\Debug\netcoreapp3.1\Vidu9_Time.exe
+C:\Users\PC1\source\repos\Vidu9_Time\Vidu9_Time\bin\Debug\netcoreapp3.1\Vidu9_Time.deps.json
+C:\Users\PC1\source\repos\Vidu9_Time\Vidu9_Time\bin\Debug\netcoreapp3.1\Vidu9_Time.runtimeconfig.json
+C:\Users\PC1\source\repos\Vidu9_Time\Vidu9_Time\bin\Debug\netcoreapp3.1\Vidu9_Time.runtimeconfig.dev.json
+C:\Users\PC1\source\repos\Vidu9_Time\Vidu9_Time\bin\Debug\netcoreapp3.1\Vidu9_Time.dll
+C:\Users\PC1\source\repos\Vidu9_Time\Vidu9_Time\bin\Debug\netcoreapp3.1\Vidu9_Time.pdb
+C:\Users\PC1\source\repos\Vidu9_Time\Vidu9_Time\obj\Debug\netcoreapp3.1\Vidu9_Time.AssemblyInfoInputs.cache
+C:\Users\PC1\source\repos\Vidu9_Time\Vidu9_Time\obj\Debug\netcoreapp3.1\Vidu9_Time.AssemblyInfo.cs
+C:\Users\PC1\source\repos\Vidu9_Time\Vidu9_Time\obj\Debug\netcoreapp3.1\Vidu9_Time.dll
+C:\Users\PC1\source\repos\Vidu9_Time\Vidu9_Time\obj\Debug\netcoreapp3.1\Vidu9_Time.pdb

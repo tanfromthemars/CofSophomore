@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Demo_Lab01_Bai07/1.0.0": {
+        "runtime": {
+          "Demo_Lab01_Bai07.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Demo_Lab01_Bai07/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

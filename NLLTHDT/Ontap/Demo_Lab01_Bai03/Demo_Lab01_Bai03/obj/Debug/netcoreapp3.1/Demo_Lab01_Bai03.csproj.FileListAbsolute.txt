@@ -1,0 +1,12 @@
+C:\Users\PC1\source\repos\Demo_Lab01_Bai03\Demo_Lab01_Bai03\obj\Debug\netcoreapp3.1\Demo_Lab01_Bai03.AssemblyInfoInputs.cache
+C:\Users\PC1\source\repos\Demo_Lab01_Bai03\Demo_Lab01_Bai03\obj\Debug\netcoreapp3.1\Demo_Lab01_Bai03.AssemblyInfo.cs
+C:\Users\PC1\source\repos\Demo_Lab01_Bai03\Demo_Lab01_Bai03\obj\Debug\netcoreapp3.1\Demo_Lab01_Bai03.csproj.CoreCompileInputs.cache
+C:\Users\PC1\source\repos\Demo_Lab01_Bai03\Demo_Lab01_Bai03\bin\Debug\netcoreapp3.1\Demo_Lab01_Bai03.exe
+C:\Users\PC1\source\repos\Demo_Lab01_Bai03\Demo_Lab01_Bai03\bin\Debug\netcoreapp3.1\Demo_Lab01_Bai03.deps.json
+C:\Users\PC1\source\repos\Demo_Lab01_Bai03\Demo_Lab01_Bai03\bin\Debug\netcoreapp3.1\Demo_Lab01_Bai03.runtimeconfig.json
+C:\Users\PC1\source\repos\Demo_Lab01_Bai03\Demo_Lab01_Bai03\bin\Debug\netcoreapp3.1\Demo_Lab01_Bai03.runtimeconfig.dev.json
+C:\Users\PC1\source\repos\Demo_Lab01_Bai03\Demo_Lab01_Bai03\bin\Debug\netcoreapp3.1\Demo_Lab01_Bai03.dll
+C:\Users\PC1\source\repos\Demo_Lab01_Bai03\Demo_Lab01_Bai03\bin\Debug\netcoreapp3.1\Demo_Lab01_Bai03.pdb
+C:\Users\PC1\source\repos\Demo_Lab01_Bai03\Demo_Lab01_Bai03\obj\Debug\netcoreapp3.1\Demo_Lab01_Bai03.dll
+C:\Users\PC1\source\repos\Demo_Lab01_Bai03\Demo_Lab01_Bai03\obj\Debug\netcoreapp3.1\Demo_Lab01_Bai03.pdb
+C:\Users\PC1\source\repos\Demo_Lab01_Bai03\Demo_Lab01_Bai03\obj\Debug\netcoreapp3.1\Demo_Lab01_Bai03.genruntimeconfig.cache

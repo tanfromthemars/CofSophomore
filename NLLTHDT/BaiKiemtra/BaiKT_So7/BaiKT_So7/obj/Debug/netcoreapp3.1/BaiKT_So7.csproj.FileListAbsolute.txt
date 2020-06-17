@@ -1,0 +1,11 @@
+C:\Users\PC1\source\repos\BaiKT_So7\BaiKT_So7\bin\Debug\netcoreapp3.1\BaiKT_So7.exe
+C:\Users\PC1\source\repos\BaiKT_So7\BaiKT_So7\bin\Debug\netcoreapp3.1\BaiKT_So7.deps.json
+C:\Users\PC1\source\repos\BaiKT_So7\BaiKT_So7\bin\Debug\netcoreapp3.1\BaiKT_So7.runtimeconfig.json
+C:\Users\PC1\source\repos\BaiKT_So7\BaiKT_So7\bin\Debug\netcoreapp3.1\BaiKT_So7.runtimeconfig.dev.json
+C:\Users\PC1\source\repos\BaiKT_So7\BaiKT_So7\bin\Debug\netcoreapp3.1\BaiKT_So7.dll
+C:\Users\PC1\source\repos\BaiKT_So7\BaiKT_So7\bin\Debug\netcoreapp3.1\BaiKT_So7.pdb
+C:\Users\PC1\source\repos\BaiKT_So7\BaiKT_So7\obj\Debug\netcoreapp3.1\BaiKT_So7.csprojAssemblyReference.cache
+C:\Users\PC1\source\repos\BaiKT_So7\BaiKT_So7\obj\Debug\netcoreapp3.1\BaiKT_So7.AssemblyInfoInputs.cache
+C:\Users\PC1\source\repos\BaiKT_So7\BaiKT_So7\obj\Debug\netcoreapp3.1\BaiKT_So7.AssemblyInfo.cs
+C:\Users\PC1\source\repos\BaiKT_So7\BaiKT_So7\obj\Debug\netcoreapp3.1\BaiKT_So7.dll
+C:\Users\PC1\source\repos\BaiKT_So7\BaiKT_So7\obj\Debug\netcoreapp3.1\BaiKT_So7.pdb

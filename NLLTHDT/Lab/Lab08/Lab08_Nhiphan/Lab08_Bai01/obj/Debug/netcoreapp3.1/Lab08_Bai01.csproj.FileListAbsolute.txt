@@ -1,0 +1,10 @@
+C:\Users\PC1\source\repos\Lab08_Bai01\Lab08_Bai01\bin\Debug\netcoreapp3.1\Lab08_Bai01.exe
+C:\Users\PC1\source\repos\Lab08_Bai01\Lab08_Bai01\bin\Debug\netcoreapp3.1\Lab08_Bai01.deps.json
+C:\Users\PC1\source\repos\Lab08_Bai01\Lab08_Bai01\bin\Debug\netcoreapp3.1\Lab08_Bai01.runtimeconfig.json
+C:\Users\PC1\source\repos\Lab08_Bai01\Lab08_Bai01\bin\Debug\netcoreapp3.1\Lab08_Bai01.runtimeconfig.dev.json
+C:\Users\PC1\source\repos\Lab08_Bai01\Lab08_Bai01\bin\Debug\netcoreapp3.1\Lab08_Bai01.dll
+C:\Users\PC1\source\repos\Lab08_Bai01\Lab08_Bai01\bin\Debug\netcoreapp3.1\Lab08_Bai01.pdb
+C:\Users\PC1\source\repos\Lab08_Bai01\Lab08_Bai01\obj\Debug\netcoreapp3.1\Lab08_Bai01.AssemblyInfoInputs.cache
+C:\Users\PC1\source\repos\Lab08_Bai01\Lab08_Bai01\obj\Debug\netcoreapp3.1\Lab08_Bai01.AssemblyInfo.cs
+C:\Users\PC1\source\repos\Lab08_Bai01\Lab08_Bai01\obj\Debug\netcoreapp3.1\Lab08_Bai01.dll
+C:\Users\PC1\source\repos\Lab08_Bai01\Lab08_Bai01\obj\Debug\netcoreapp3.1\Lab08_Bai01.pdb

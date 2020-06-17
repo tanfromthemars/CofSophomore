@@ -1,0 +1,11 @@
+C:\Users\PC1\source\repos\Lab08_Thaplucphan\Lab08_Thaplucphan\bin\Debug\netcoreapp3.1\Lab08_Thaplucphan.exe
+C:\Users\PC1\source\repos\Lab08_Thaplucphan\Lab08_Thaplucphan\bin\Debug\netcoreapp3.1\Lab08_Thaplucphan.deps.json
+C:\Users\PC1\source\repos\Lab08_Thaplucphan\Lab08_Thaplucphan\bin\Debug\netcoreapp3.1\Lab08_Thaplucphan.runtimeconfig.json
+C:\Users\PC1\source\repos\Lab08_Thaplucphan\Lab08_Thaplucphan\bin\Debug\netcoreapp3.1\Lab08_Thaplucphan.runtimeconfig.dev.json
+C:\Users\PC1\source\repos\Lab08_Thaplucphan\Lab08_Thaplucphan\bin\Debug\netcoreapp3.1\Lab08_Thaplucphan.dll
+C:\Users\PC1\source\repos\Lab08_Thaplucphan\Lab08_Thaplucphan\bin\Debug\netcoreapp3.1\Lab08_Thaplucphan.pdb
+C:\Users\PC1\source\repos\Lab08_Thaplucphan\Lab08_Thaplucphan\obj\Debug\netcoreapp3.1\Lab08_Thaplucphan.csprojAssemblyReference.cache
+C:\Users\PC1\source\repos\Lab08_Thaplucphan\Lab08_Thaplucphan\obj\Debug\netcoreapp3.1\Lab08_Thaplucphan.AssemblyInfoInputs.cache
+C:\Users\PC1\source\repos\Lab08_Thaplucphan\Lab08_Thaplucphan\obj\Debug\netcoreapp3.1\Lab08_Thaplucphan.AssemblyInfo.cs
+C:\Users\PC1\source\repos\Lab08_Thaplucphan\Lab08_Thaplucphan\obj\Debug\netcoreapp3.1\Lab08_Thaplucphan.dll
+C:\Users\PC1\source\repos\Lab08_Thaplucphan\Lab08_Thaplucphan\obj\Debug\netcoreapp3.1\Lab08_Thaplucphan.pdb

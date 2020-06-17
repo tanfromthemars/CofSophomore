@@ -24,7 +24,7 @@ namespace vidu3
             var hcn = new Hinhchunhat();
             hcn.SetHCN();
 
-            Console.WriteLine($"Tinh chu vi: {hcn.Tinhchuvi()}");
+            Console.WriteLine("Tinh chu vi: {0}", hcn.Tinhchuvi());
             Console.WriteLine($"Tinh dien tich: {hcn.Tinhdientich()}");
 
             Console.ReadLine();

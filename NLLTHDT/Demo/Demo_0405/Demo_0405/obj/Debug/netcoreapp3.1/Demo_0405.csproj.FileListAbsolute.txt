@@ -1,0 +1,11 @@
+C:\Users\PC1\source\repos\Demo_0405\Demo_0405\obj\Debug\netcoreapp3.1\Demo_0405.csprojAssemblyReference.cache
+C:\Users\PC1\source\repos\Demo_0405\Demo_0405\obj\Debug\netcoreapp3.1\Demo_0405.AssemblyInfoInputs.cache
+C:\Users\PC1\source\repos\Demo_0405\Demo_0405\obj\Debug\netcoreapp3.1\Demo_0405.AssemblyInfo.cs
+C:\Users\PC1\source\repos\Demo_0405\Demo_0405\bin\Debug\netcoreapp3.1\Demo_0405.exe
+C:\Users\PC1\source\repos\Demo_0405\Demo_0405\bin\Debug\netcoreapp3.1\Demo_0405.deps.json
+C:\Users\PC1\source\repos\Demo_0405\Demo_0405\bin\Debug\netcoreapp3.1\Demo_0405.runtimeconfig.json
+C:\Users\PC1\source\repos\Demo_0405\Demo_0405\bin\Debug\netcoreapp3.1\Demo_0405.runtimeconfig.dev.json
+C:\Users\PC1\source\repos\Demo_0405\Demo_0405\bin\Debug\netcoreapp3.1\Demo_0405.dll
+C:\Users\PC1\source\repos\Demo_0405\Demo_0405\bin\Debug\netcoreapp3.1\Demo_0405.pdb
+C:\Users\PC1\source\repos\Demo_0405\Demo_0405\obj\Debug\netcoreapp3.1\Demo_0405.dll
+C:\Users\PC1\source\repos\Demo_0405\Demo_0405\obj\Debug\netcoreapp3.1\Demo_0405.pdb

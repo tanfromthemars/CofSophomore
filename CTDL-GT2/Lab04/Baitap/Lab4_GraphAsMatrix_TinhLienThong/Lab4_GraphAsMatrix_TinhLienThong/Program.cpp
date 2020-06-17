@@ -1,8 +1,6 @@
 #include <iostream>
 #include <conio.h>
 #include <fstream>
-#include <iomanip>
-#include <string.h>
 
 #include <list>
 #include <stack>

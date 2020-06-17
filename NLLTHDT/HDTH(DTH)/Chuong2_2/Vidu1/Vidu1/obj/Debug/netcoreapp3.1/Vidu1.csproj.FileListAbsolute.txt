@@ -1,0 +1,11 @@
+C:\Users\PC1\source\repos\Vidu1\Vidu1\bin\Debug\netcoreapp3.1\Vidu1.exe
+C:\Users\PC1\source\repos\Vidu1\Vidu1\bin\Debug\netcoreapp3.1\Vidu1.deps.json
+C:\Users\PC1\source\repos\Vidu1\Vidu1\bin\Debug\netcoreapp3.1\Vidu1.runtimeconfig.json
+C:\Users\PC1\source\repos\Vidu1\Vidu1\bin\Debug\netcoreapp3.1\Vidu1.runtimeconfig.dev.json
+C:\Users\PC1\source\repos\Vidu1\Vidu1\bin\Debug\netcoreapp3.1\Vidu1.dll
+C:\Users\PC1\source\repos\Vidu1\Vidu1\bin\Debug\netcoreapp3.1\Vidu1.pdb
+C:\Users\PC1\source\repos\Vidu1\Vidu1\obj\Debug\netcoreapp3.1\Vidu1.csprojAssemblyReference.cache
+C:\Users\PC1\source\repos\Vidu1\Vidu1\obj\Debug\netcoreapp3.1\Vidu1.AssemblyInfoInputs.cache
+C:\Users\PC1\source\repos\Vidu1\Vidu1\obj\Debug\netcoreapp3.1\Vidu1.AssemblyInfo.cs
+C:\Users\PC1\source\repos\Vidu1\Vidu1\obj\Debug\netcoreapp3.1\Vidu1.dll
+C:\Users\PC1\source\repos\Vidu1\Vidu1\obj\Debug\netcoreapp3.1\Vidu1.pdb

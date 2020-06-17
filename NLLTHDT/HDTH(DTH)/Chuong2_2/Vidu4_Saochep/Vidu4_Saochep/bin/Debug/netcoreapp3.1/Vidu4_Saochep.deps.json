@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Vidu4_Saochep/1.0.0": {
+        "runtime": {
+          "Vidu4_Saochep.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vidu4_Saochep/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

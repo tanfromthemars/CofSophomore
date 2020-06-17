@@ -1,0 +1,10 @@
+C:\Users\PC1\source\repos\Vidu3\Vidu3\bin\Debug\netcoreapp3.1\Vidu3.exe
+C:\Users\PC1\source\repos\Vidu3\Vidu3\bin\Debug\netcoreapp3.1\Vidu3.deps.json
+C:\Users\PC1\source\repos\Vidu3\Vidu3\bin\Debug\netcoreapp3.1\Vidu3.runtimeconfig.json
+C:\Users\PC1\source\repos\Vidu3\Vidu3\bin\Debug\netcoreapp3.1\Vidu3.runtimeconfig.dev.json
+C:\Users\PC1\source\repos\Vidu3\Vidu3\bin\Debug\netcoreapp3.1\Vidu3.dll
+C:\Users\PC1\source\repos\Vidu3\Vidu3\bin\Debug\netcoreapp3.1\Vidu3.pdb
+C:\Users\PC1\source\repos\Vidu3\Vidu3\obj\Debug\netcoreapp3.1\Vidu3.AssemblyInfoInputs.cache
+C:\Users\PC1\source\repos\Vidu3\Vidu3\obj\Debug\netcoreapp3.1\Vidu3.AssemblyInfo.cs
+C:\Users\PC1\source\repos\Vidu3\Vidu3\obj\Debug\netcoreapp3.1\Vidu3.dll
+C:\Users\PC1\source\repos\Vidu3\Vidu3\obj\Debug\netcoreapp3.1\Vidu3.pdb
